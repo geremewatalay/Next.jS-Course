@@ -6,6 +6,6 @@ export default function ProductDetails({
 })
 
 {
-    return <h1>Details about product</h1>;
+    return <h1>Details about product{params.productId}</h1>;
 }
 
