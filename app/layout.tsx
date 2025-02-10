@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title:{
-    absolute:"",
+    
     default:"Next.js Tutorial - AhaduTech",
     template:"%s | AhaduTech",
   },
